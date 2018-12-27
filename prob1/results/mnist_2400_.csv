@@ -1,0 +1,9 @@
+base_acc_reg,0.795
+warm_acc_reg,0.8550000000000001
+treat_acc_reg,0.8149999999999998
+base_acc_treat,0.805
+warm_acc_treat,0.86
+treat_acc_treat,0.835
+base_iter,2150.0
+warm_iter,11731.0
+treat_iter,2309.0
